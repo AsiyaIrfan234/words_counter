@@ -25,4 +25,3 @@ const words = answers.Sentence.trim().split(" ")
  //print the word count of the sentence to the console
  console.log(`your sentence word count is ${words.length}`);
  
- 
